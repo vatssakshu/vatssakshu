@@ -33,5 +33,5 @@ Skills: C++, Java, HTML, CSS, JavaScript, ReactJS, Python.
   </a>
 </div>
 
-<h3>LeetCode Stats:</h3>1
+<h3>LeetCode Stats:</h3>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/vatssaksham)
