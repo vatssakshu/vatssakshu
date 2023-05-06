@@ -17,30 +17,17 @@ Skills: C++, Java, HTML, CSS, JavaScript, ReactJS, Python.
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     >
   </a>
-  <a href="https://www.codechef.com/users/rahulgupta01" target="_blank">
-    <img
-      height="25"
-      src="https://cp-logo.vercel.app/codechef/rahulgupta01?logo=true"
-      alt="Rahul's CodeChef"
-    >
-  <a href="https://codeforces.com/profile/rahulkumargupta" target="_blank">
-    <img
-      height="25"
-      src="https://cp-logo.vercel.app/codeforces/rahulkumargupta?logo=true"
-      alt="Rahul's Codeforces"
-    >
-  </a>
   <a href="https://leetcode.com/rahulgupta01/" target="_blank">
     <img
       height="25"
-      src="https://cp-logo.vercel.app/leetcode/rahulgupta01?logo=true"
+      src="https://cp-logo.vercel.app/leetcode/vatssaksham?logo=true"
       alt="Rahul's LeetCode"
     >
   </a>
-  <a href="mailto: rahulslg20@gmail.com" target="_blank">
+  <a href="mailto: vatssakshu@gmail.com" target="_blank">
     <img
       height="25"
-      alt="Rahul's Gmail "
+      alt="Saksham's Gmail "
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     >
   </a>
