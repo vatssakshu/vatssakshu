@@ -10,7 +10,7 @@ Skills: C++, Java, HTML, CSS, JavaScript, ReactJS, Python.
 </p>
 
 <div>
-  <a href="https://www.linkedin.com/in/rahul-kumar-gupta-01/" target="_blank">
+  <a href="https://www.linkedin.com/in/saksham-vats-06a9771bb/" target="_blank">
     <img
       height="25"
       alt="Rahul's LinkedIn"
@@ -46,11 +46,5 @@ Skills: C++, Java, HTML, CSS, JavaScript, ReactJS, Python.
   </a>
 </div>
 
-<h3>LeetCode Stats:</h3>
-
-<div>
-  <img width="45%" src="https://leetcard.jacoblin.cool/rahulgupta01?theme=nord" />
-</div>
-
-
+<h3>LeetCode Stats:</h3>1
 ![Leetcode Stats](https://leetcard.jacoblin.cool/vatssaksham)
