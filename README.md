@@ -6,9 +6,9 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 My area of interest is Web and Software Development.
 
-Languages: Javascript, C++, HTML/CSS, Java.
-Frameworks: React, Node.js, Redux, Bootstrap, Express.
-Developer Tools: Git, VS Code, Visual Studio 
+Languages: Javascript, C++, HTML/CSS, Java.<br/>
+Frameworks: React, Node.js, Redux, Bootstrap, Express.<br/>
+Developer Tools: Git, VS Code, Visual Studio.<br/> 
 Libraries: React-Query, Matplotlib
 </p>
 
